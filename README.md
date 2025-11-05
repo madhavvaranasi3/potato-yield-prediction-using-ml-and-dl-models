@@ -4,7 +4,8 @@ Overview
 
 Accurate crop yield forecasting enables better agricultural decision-making and supports improved water resource management. In this project, potato yield is predicted by analyzing reservoir and field-related parameters through a structured machine learning workflow that progresses from data cleaning to model evaluation, including advanced neural network models.
 
-Project Structure
+**Project Structure**
+```
 tih_internship_project/
 ├── datasets/
 │   ├── merged_potato_reservoir.csv                 # Raw dataset
@@ -12,6 +13,8 @@ tih_internship_project/
 ├── potato_yield_prediction.ipynb                   # Full ML workflow
 ├── requirements.txt
 └── .gitignore
+```
+
 
 Dataset Description
 
