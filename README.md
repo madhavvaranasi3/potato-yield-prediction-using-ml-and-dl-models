@@ -39,7 +39,7 @@ potato-yield-prediction-using-ML-and-DL-Models/
 
 ## Models Implemented
 
-Implemented in potato_yield_prediction.ipynb
+Implemented in **potato_yield_prediction.ipynb**
 
 ### Classical Machine Learning Models
 - RandomForestRegressor (baseline)
