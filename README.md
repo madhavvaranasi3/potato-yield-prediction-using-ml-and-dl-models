@@ -62,7 +62,7 @@ It serves as an **extension of the primary notebook** (`potato_yield_prediction.
 Key highlights include:
 - Achieved **R² ≈ 0.95** on the cleaned potato reservoir dataset.  
 - Implements **past-yield-integrated sequence generation (V2 approach)**.  
-- Designed for **reuse on other agricultural or environmental datasets** requiring sequence-based forecasting.
+- Designed for **reuse on other agricultural or environmental datasets**.
 
 ---
 
