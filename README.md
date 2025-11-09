@@ -50,6 +50,19 @@ tih_internship_project/
 
 ---
 
+### Extended Deep Learning Notebook (BiLSTM V2)
+
+A dedicated **`BiLSTM Model.ipynb`** notebook is included as part of this repository to demonstrate an **enhanced deep learning approach** for crop yield forecasting.  
+This notebook specifically focuses on the **Bidirectional LSTM (BiLSTM)** architecture, incorporating **past yield values as temporal features** to strengthen sequential learning.
+
+It serves as an **extension of the primary notebook** (`potato_yield_prediction.ipynb`), enabling deeper experimentation with time-series modeling and improved prediction accuracy.  
+Key highlights include:
+- Achieved **R² ≈ 0.95** on the cleaned potato reservoir dataset.  
+- Implements **past-yield-integrated sequence generation (V2 approach)**.  
+- Designed for **reuse on other agricultural or environmental datasets** requiring sequence-based forecasting.
+
+---
+
 ## Evaluation
 Models are evaluated using the following regression metrics:
 - Mean Absolute Error (MAE)
