@@ -42,9 +42,9 @@ potato-yield-prediction-using-ML-and-DL-Models/
 Implemented in **potato_yield_prediction.ipynb**
 
 ### Classical Machine Learning Models
-- RandomForestRegressor (baseline)
-- XGBRegressor
-- Ensemble Model (RandomForestRegressor + XGBRegressor)
+- Random Forest Regressor 
+- XGBoost 
+- Ensemble Model (Random Forest Regressor + XGBoost)
 - RandomForestRegressor with GridSearchCV for hyperparameter optimization
 
 ### Deep Learning Models
