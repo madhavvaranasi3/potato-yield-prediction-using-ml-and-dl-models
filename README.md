@@ -50,7 +50,7 @@ tih_internship_project/
 
 ---
 
-### Extended Deep Learning Notebook (BiLSTM V2)
+### Extended Deep Learning Notebook (BiLSTM)
 
 A dedicated **`BiLSTM Model.ipynb`** notebook is included as part of this repository to demonstrate an **enhanced deep learning approach** for crop yield forecasting.  
 This notebook specifically focuses on the **Bidirectional LSTM (BiLSTM)** architecture, incorporating **past yield values as temporal features** to strengthen sequential learning.
